@@ -1,0 +1,1 @@
+CREATE USER IF NOT EXISTS 'iaas'@'%' IDENTIFIED BY 'iaas';
